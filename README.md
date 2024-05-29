@@ -17,8 +17,9 @@
 
 - 🔭 I’m currently working on **GenAI and Machine Learning projects**
 
-
 - 🤝I’m looking to collaborate on projects which aligns in the field of Data Science, MLOps, Machine Learning Engineer, AI Engineer, Data Analysis.
+
+-  📄 Check out my Portfolio: [Portfolio]([https://harshp777.github.io/harshmpandya.github.io/])
 
 
 
